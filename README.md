@@ -166,7 +166,7 @@ HyperRouter is designed for clients that support OpenAI-compatible, Responses AP
 
 Validated integration patterns include:
 
-* AlphaOne Harnes
+* AlphaOne Harness
 * Visual Studio Code
 * Visual Studio
 * OpenAI Codex CLI
